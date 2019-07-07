@@ -20,7 +20,7 @@ This is the Simple Notes frontend that is created using react native and the red
 6. Wait for the process to complete, then the simple notes application will be installed and open on your mobile
 
 ## Preview Video for This App
-See this application demo <a href="https://github.com/DanyAdhiPrabowo/Simple-Notes-with-RESTfull-API">here!</a>
+See this application demo <a href="https://drive.google.com/file/d/17F2KsH-9yyBlafSCDZkub6x3Oy_SteXY/view?usp=sharing">here!</a>
 
 ## Screenshot
 <p align='center'>
