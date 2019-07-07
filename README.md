@@ -25,9 +25,13 @@ See this application demo <a href="https://github.com/DanyAdhiPrabowo/Simple-Not
 ## Screenshot
 <p align='center'>
   <span>
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651909.png' width=200 />
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651914.png' width=200 />
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651917.png' width=200 />
-  <img src='https://github.com/andreferi3/ReactNative-Note-App/blob/master/src/Screens/Screenshot_1561651923.png' width=200 />
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/home.png' width=200 />
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/search.png' width=200 />
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/create.png' width=200 />
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/edit.png' width=200 />
+  <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/sidebar.png' width=200 />
+    <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/personal.png' width=200 />
+    <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/learn.png' width=200 />
+    <img src='https://github.com/DanyAdhiPrabowo/Simple-Notes-with-Rect-Native-Redux/blob/master/screenShoot/work.png' width=200 />
   </span>
 </p>
